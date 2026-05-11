@@ -1,6 +1,8 @@
 {
   "version": "1.0.0",
-  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/latest",
+  "downloadUrl": "https://github.com/xYigit58/HaxStudio-Updates/releases/latest",
+  "releasePageUrl": "https://github.com/xYigit58/HaxStudio-Updates/releases/latest",
+  "fileName": "HaxStudio-v1.0.0.zip",
   "releaseNotes": [
     "Initial HaxStudio v1.0 release",
     "Modern WPF dark UI",
