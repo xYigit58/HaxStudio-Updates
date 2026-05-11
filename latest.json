@@ -1,14 +1,19 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/xYigit58/HaxStudio-Updates/releases/latest",
-  "releasePageUrl": "https://github.com/xYigit58/HaxStudio-Updates/releases/latest",
-  "fileName": "HaxStudio-v1.0.0.zip",
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/download/v1.1.0/HaxStudio-Setup-1.1.0.exe",
+  "releasePageUrl": "https://github.com/xYigit58/HaxStudio/releases/tag/v1.1.0",
+  "fileName": "HaxStudio-Setup-1.1.0.exe",
   "releaseNotes": [
-    "Initial HaxStudio v1.0 release",
-    "Modern WPF dark UI",
-    "Visual .hbs stadium editor",
-    "Inspector, Layers, Validator and JSON editor",
-    "Undo/Redo, Copy/Paste/Duplicate and Snap to Grid",
-    "Custom title bar, settings panel and hotkeys"
+    "Persistent editor configuration and saved dock layout.",
+    "AutoSave backup system with custom folder selection.",
+    "Professional Layers and Validator panel redesigns.",
+    "New History panel for Undo/Redo visibility.",
+    "Viewport mini toolbar with Grid, Snap, object visibility toggles, Mirror and Reset.",
+    "Improved selected object highlights in the viewport.",
+    "Mirror Selected Horizontally and Vertically commands.",
+    "Auto Mirror placement mode for symmetrical stadium editing.",
+    "Improved curve handle performance on large maps.",
+    "Fixed HaxBall curve direction preview mismatch.",
+    "Windows installer support."
   ]
 }
