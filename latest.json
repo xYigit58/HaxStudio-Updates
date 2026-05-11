@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/latest",
+  "releaseNotes": [
+    "Initial HaxStudio v1.0 release",
+    "Modern WPF dark UI",
+    "Visual .hbs stadium editor",
+    "Inspector, Layers, Validator and JSON editor",
+    "Undo/Redo, Copy/Paste/Duplicate and Snap to Grid",
+    "Custom title bar, settings panel and hotkeys"
+  ]
+}
