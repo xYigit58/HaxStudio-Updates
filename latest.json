@@ -1,8 +1,8 @@
 {
   "version": "1.2.0",
-  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/download/v1.2.0/HaxStudio_Setup_v1.2.0.exe",
+  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/download/v1.2.0/HaxStudio_Setup_v1.2.0",
   "releasePageUrl": "https://github.com/xYigit58/HaxStudio/releases/tag/v1.2.0",
-  "fileName": "HaxStudio_Setup_v1.2.0.exe",
+  "fileName": "HaxStudio_Setup_v1.2.0",
   "releaseNotes": [
     "Added Recent Files support with the last 10 opened and saved stadium files.",
     "Added Clear Recent Files and automatic cleanup for missing recent files.",
