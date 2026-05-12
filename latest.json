@@ -1,19 +1,18 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/download/v1.1.0/HaxStudio-Setup-1.1.0.exe",
-  "releasePageUrl": "https://github.com/xYigit58/HaxStudio/releases/tag/v1.1.0",
-  "fileName": "HaxStudio-Setup-1.1.0.exe",
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/download/v1.2.0/HaxStudio_Setup_v1.2.0.exe",
+  "releasePageUrl": "https://github.com/xYigit58/HaxStudio/releases/tag/v1.2.0",
+  "fileName": "HaxStudio_Setup_v1.2.0.exe",
   "releaseNotes": [
-    "Persistent editor configuration and saved dock layout.",
-    "AutoSave backup system with custom folder selection.",
-    "Professional Layers and Validator panel redesigns.",
-    "New History panel for Undo/Redo visibility.",
-    "Viewport mini toolbar with Grid, Snap, object visibility toggles, Mirror and Reset.",
-    "Improved selected object highlights in the viewport.",
-    "Mirror Selected Horizontally and Vertically commands.",
-    "Auto Mirror placement mode for symmetrical stadium editing.",
-    "Improved curve handle performance on large maps.",
-    "Fixed HaxBall curve direction preview mismatch.",
-    "Windows installer support."
+    "Added Recent Files support with the last 10 opened and saved stadium files.",
+    "Added Clear Recent Files and automatic cleanup for missing recent files.",
+    "Added Crash Recovery system for recovering unsaved stadium work after unexpected shutdowns.",
+    "Added startup recovery dialog with Recover, Open Folder and Discard options.",
+    "Improved AutoSave integration with recovery state tracking.",
+    "Normal Save and Save As now clear recovery state after a successful save.",
+    "Added optional save/export color validation and auto-fix flow.",
+    "Improved Stadium Validator checks for segments, goals, joints, colors, traits, ball physics and invalid numeric values.",
+    "Improved large map performance with render throttling, viewport culling, lazy JSON updates and lazy Layers updates.",
+    "Updated HaxStudio UI version labels to 1.2.0."
   ]
 }
