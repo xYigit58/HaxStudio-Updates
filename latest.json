@@ -1,18 +1,19 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/download/v1.2.0/HaxStudio_Setup_v1.2.0",
-  "releasePageUrl": "https://github.com/xYigit58/HaxStudio/releases/tag/v1.2.0",
-  "fileName": "HaxStudio_Setup_v1.2.0",
+  "version": "1.3.0",
+  "downloadUrl": "https://github.com/xYigit58/HaxStudio/releases/download/v1.3.0/HaxStudio_Setup_v1.3.0.exe",
+  "releasePageUrl": "https://github.com/xYigit58/HaxStudio/releases/tag/v1.3.0",
+  "fileName": "HaxStudio_Setup_v1.3.0.exe",
   "releaseNotes": [
-    "Added Recent Files support with the last 10 opened and saved stadium files.",
-    "Added Clear Recent Files and automatic cleanup for missing recent files.",
-    "Added Crash Recovery system for recovering unsaved stadium work after unexpected shutdowns.",
-    "Added startup recovery dialog with Recover, Open Folder and Discard options.",
-    "Improved AutoSave integration with recovery state tracking.",
-    "Normal Save and Save As now clear recovery state after a successful save.",
-    "Added optional save/export color validation and auto-fix flow.",
-    "Improved Stadium Validator checks for segments, goals, joints, colors, traits, ball physics and invalid numeric values.",
-    "Improved large map performance with render throttling, viewport culling, lazy JSON updates and lazy Layers updates.",
-    "Updated HaxStudio UI version labels to 1.2.0."
+    "Added cross-map copy/paste support for moving selected objects between stadium files.",
+    "Added paste capacity checks for HaxBall object limits before inserting copied objects.",
+    "Added safer HaxBall compatibility validation with more accurate Critical, Warning and Info severity levels.",
+    "Added Safe Export Report with object counts and compatibility summary after saving/exporting.",
+    "Added Selection Statistics with selected object counts, bounds and paste cost information.",
+    "Added cleanup tools for safe issue cleanup, unused vertexes and unused traits.",
+    "Improved Measure Tool with live coordinate data, vertex snapping, vertex locking and guide corner snap points.",
+    "Added canvas-based rotate handle for selected objects and multi-selection groups.",
+    "Improved curved segment hitboxes and curve-related export safety.",
+    "Fixed possible overflow crash during undo/snapshot creation with unusual numeric values.",
+    "Updated HaxStudio UI version labels to 1.3.0."
   ]
 }
